@@ -3,6 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling Authentication and Authorization in Node.js](https://medium.com/@atharva1610/handling-authentication-and-authorization-in-node-js-c9a34d8fc85f?source=rss-750427617fc9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
