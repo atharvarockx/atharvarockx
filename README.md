@@ -8,8 +8,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/atharva-gulhane-406a21190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="atharva-gulhane-406a21190" height="30" width="40" />LinkedIn</a></br>
-<a href="https://medium.com/@atharva1610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@atharva1610" height="30" width="40" />Medium</a></br>
+<a href="https://linkedin.com/in/atharva-gulhane-406a21190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="atharva-gulhane-406a21190" height="30" width="40"/>LinkedIn</a>   
+<a href="https://medium.com/@atharva1610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@atharva1610" height="30" width="40" />Medium</a>
 <a href="https://www.codechef.com/users/atharva_rockx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharva_rockx" height="30" width="40" />CodeChef</a>
 </p>
 
