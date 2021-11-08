@@ -10,7 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [JP Morgan Chase & Co. On-Campus Internship Experience (SDE)](https://atharva1610.medium.com/jp-morgan-chase-co-on-campus-internship-experience-sde-61d112713b31?source=rss-750427617fc9------2)
+- [JP Morgan Chase &amp; Co. On-Campus Internship Experience &lpar;SDE&rpar;](https://atharva1610.medium.com/jp-morgan-chase-co-on-campus-internship-experience-sde-61d112713b31?source=rss-750427617fc9------2)
 - [Handling Authentication and Authorization in Node.js](https://atharva1610.medium.com/handling-authentication-and-authorization-in-node-js-c9a34d8fc85f?source=rss-750427617fc9------2)
 <!-- BLOG-POST-LIST:END -->
 
